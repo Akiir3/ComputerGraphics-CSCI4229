@@ -1,0 +1,34 @@
+Erika Bailon 
+This project took about 12 hours, I did some research about what the Lorenz means and watched some videos of how to do in different languages. It was interesting seeing the output of differential equations in a way that I've never seen before. Also, I saw some tutorial of Lorenz in other languages and they outputted pretty cool designs, even some that were drawing themselves and other pretty cool features. 
+
+Executable file is hw2
+
+I have a Mac, not sure what instructions should I write to make it executable
+
+The key instructions are the following: 
+
+esc		exits program
+0		reset axis 
+1		reset parameters
+up		change view angle up
+down		change view angle down
+left		change view angle left	
+right		change view angle right
+
+Change of colors
+2		changes to red
+3		changes to green
+4		changes to blue
+
+The Parameters given
+r 		increase r
+R 		decrease r
+
+b 		increase b
+B 		decrease b
+
+s 		increase s
+S 		decrease s
+
+
+RUN ./hw2
