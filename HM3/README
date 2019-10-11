@@ -1,0 +1,23 @@
+Homework 3
+Erika Bailon
+CSCI 4229 Fall 2019 
+
+This homework draws WallE and Eva and a few buildings in the area. 
+Sorry they don't have arms, they will for next homework! 
+
+This assignment took me about 18 hours because it was hard understanding some new functions and it took me about 5 hours just fixing each body to all be created at the origin so rotation and translation could work without bugs. 
+
+The key instructions are the following: 
+
+esc		exits program
+0		reset view angle 
+up		change view angle up
+down		change view angle down
+left		change view angle left	
+right		change view angle right
+m         	Toggle between perspective and orthogonal
++/-        	Zooms in and out the field of view for perspective
+a          	Toggle axes
+
+
+

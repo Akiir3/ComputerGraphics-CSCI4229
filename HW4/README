@@ -1,0 +1,24 @@
+Erika Bailon
+Homework 4
+
+Took me about 4-5 hours because I built from previous homework so the problem was just debugging some camera problems because it wasn't showing my objects. 
+
+Demonstrate perspective, orthogonal, and first person perspective
+
+The key instructions are the following: 
+
+ESC		Exit
+0 		Reset view angle in perspective and orthogonal view
+m/M 		Toggle between perspective and orthogonal
++/- 		Changes field of view for perspective
+arrows 		Change view angle in perspective and orthogonal view
+PgDn/PgUp	Zoom in and out
+
+f/F 		Toggle between first person on/off
+w/W 		First person move forwards
+s/S 		First person move backwards
+a/A 		First person move left
+d/D 		First person move right
+q/Q 		First person move down
+e/E 		First person move up
+

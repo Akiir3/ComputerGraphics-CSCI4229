@@ -1,0 +1,22 @@
+Erika Bailon
+Hw5: Lighting
+CSCI4229
+
+Demonstrates basic lighting - Spend about 8 hours then found out my roof was completely wrong and my WallE so spend another 2 hours fixing all the normalization.
+
+Key bindings
+  a/A		Toggles axes
+  l         	Toggles lighting
+  h/H        	Decrease/increase ambient light
+  j/J        	Decrease/increase diffuse light
+  k/K       	Decrease/increase specular light
+  u/U       	Decrease/increase emitted light
+  n/N        	Decrease/increase shininess
+  g          	Toggles light movement
+  []         	Lower/rise light
+  M          	Toggles ortogonal/perspective projection
+  +/-        	Change field of view of perspective
+  arrows     	Change view angle
+  PgDn/PgUp  	Zoom in and out
+  0          	Reset view angle
+  ESC        	Exit
